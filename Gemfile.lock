@@ -1,38 +1,38 @@
 PATH
   remote: gems/supabase-auth
   specs:
-    supabase-auth (0.1.0)
+    supabase-auth (1.0.0)
       faraday (~> 2.0)
 
 PATH
   remote: gems/supabase-functions
   specs:
-    supabase-functions (0.1.0)
+    supabase-functions (1.0.0)
       faraday (~> 2.0)
 
 PATH
   remote: gems/supabase-postgrest
   specs:
-    supabase-postgrest (0.1.0)
+    supabase-postgrest (1.0.0)
       faraday (~> 2.0)
 
 PATH
   remote: gems/supabase-realtime
   specs:
-    supabase-realtime (0.1.0)
+    supabase-realtime (1.0.0)
       faraday (~> 2.0)
       websocket-client-simple (~> 0.8)
 
 PATH
   remote: gems/supabase-storage
   specs:
-    supabase-storage (0.1.0)
+    supabase-storage (1.0.0)
       faraday (~> 2.0)
 
 PATH
   remote: gems/supabase
   specs:
-    supabase (0.1.0)
+    supabase (1.0.0)
       supabase-auth (~> 0.1)
       supabase-functions (~> 0.1)
       supabase-postgrest (~> 0.1)
