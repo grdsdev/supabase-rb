@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    supabase-storage (0.1.0)
+    supabase-storage (0.2.0)
       faraday (~> 2.0)
 
 GEM
