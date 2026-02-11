@@ -1,8 +1,8 @@
 {
-  "gems/supabase": "0.0.0",
-  "gems/supabase-auth": "0.0.0",
-  "gems/supabase-functions": "0.0.0",
-  "gems/supabase-postgrest": "0.0.0",
-  "gems/supabase-realtime": "0.0.0",
-  "gems/supabase-storage": "0.0.0"
+  "gems/supabase": "1.0.0",
+  "gems/supabase-auth": "1.0.0",
+  "gems/supabase-functions": "1.0.0",
+  "gems/supabase-postgrest": "1.0.0",
+  "gems/supabase-realtime": "1.0.0",
+  "gems/supabase-storage": "1.0.0"
 }
